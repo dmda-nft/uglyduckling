@@ -29,6 +29,7 @@ export default function ButtonAppBar() {
     setAnchorEl(null);
   };
 
+
   return (
     <div >
       <AppBar position="static" style={{ background: "#29304e" }} className={classes.appbar}>
@@ -43,15 +44,15 @@ export default function ButtonAppBar() {
                 <MenuItem onClick={handleClose}>How it works</MenuItem>
             </Menu>*/}
         
-            <IconButton color="inherit" href="https://www.twitter.com/0xuglyduckling">
+            <IconButton color="inherit" onClick={()=> window.open("https://www.twitter.com/0xuglyduckling", "_blank")} >
             <img src={twitter} height={25} width={30} />
             </IconButton>
 
-            <IconButton color="inherit" href="https://www.discord.com">
+            <IconButton color="inherit" onClick={()=> window.open("https://www.discord.com", "_blank")} >
             <img src={discord} height={25} width={30}/>
             </IconButton>
 
-            <IconButton color="inherit" href="https://www.medium.com">
+            <IconButton color="inherit" onClick={()=> window.open("https://www.medium.com", "_blank")} >
             <img src={medium} height={25} width={30}/>
             </IconButton>
 
