@@ -43,7 +43,7 @@ export default function ButtonAppBar() {
                 <MenuItem onClick={handleClose}>How it works</MenuItem>
             </Menu>*/}
         
-            <IconButton color="inherit" href="https://www.twitter.com">
+            <IconButton color="inherit" href="https://www.twitter.com/0xuglyduckling">
             <img src={twitter} height={25} width={30} />
             </IconButton>
 

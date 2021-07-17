@@ -15,9 +15,9 @@ function Header() {
                     Coming Soon...
                 </Typography>
 
-                <CardActions style={{ justifyContent: 'center' }}>
+                {/* <CardActions style={{ justifyContent: 'center' }}>
                     <Button align="center" variant="contained" className={classes.websiteButton}> Go to Main Website</Button>
-                </CardActions>
+    </CardActions> */}
             </Container>
 
 
