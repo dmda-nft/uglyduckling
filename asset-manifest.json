@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/uglyduckling/static/js/main.9ac17db7.chunk.js",
+    "main.js.map": "/uglyduckling/static/js/main.9ac17db7.chunk.js.map",
+    "runtime-main.js": "/uglyduckling/static/js/runtime-main.34869c62.js",
+    "runtime-main.js.map": "/uglyduckling/static/js/runtime-main.34869c62.js.map",
+    "static/js/2.6bcd8aa1.chunk.js": "/uglyduckling/static/js/2.6bcd8aa1.chunk.js",
+    "static/js/2.6bcd8aa1.chunk.js.map": "/uglyduckling/static/js/2.6bcd8aa1.chunk.js.map",
+    "index.html": "/uglyduckling/index.html",
+    "static/js/2.6bcd8aa1.chunk.js.LICENSE.txt": "/uglyduckling/static/js/2.6bcd8aa1.chunk.js.LICENSE.txt",
+    "static/media/egg.7539d602.gif": "/uglyduckling/static/media/egg.7539d602.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34869c62.js",
+    "static/js/2.6bcd8aa1.chunk.js",
+    "static/js/main.9ac17db7.chunk.js"
+  ]
+}
