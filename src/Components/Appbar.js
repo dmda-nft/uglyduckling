@@ -48,7 +48,7 @@ export default function ButtonAppBar() {
             <img src={twitter} height={25} width={30} />
             </IconButton>
 
-            <IconButton color="inherit" onClick={()=> window.open("https://www.discord.com", "_blank")} >
+            <IconButton color="inherit" onClick={()=> window.open("https://discord.gg/UPR9m2VX", "_blank")} >
             <img src={discord} height={25} width={30}/>
             </IconButton>
 
